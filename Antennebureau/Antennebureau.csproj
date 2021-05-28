@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
+        <StartupObject>Antennebureau.Program</StartupObject>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="wwwroot\Images\General\Background_antenne.png" />
+      <None Include="wwwroot\Index.html" />
+    </ItemGroup>
 
 </Project>
