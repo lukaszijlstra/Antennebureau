@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <None Include="wwwroot\Css\StyleSheet.css" />
       <None Include="wwwroot\Images\General\Background_antenne.png" />
       <None Include="wwwroot\Index.html" />
     </ItemGroup>
