@@ -8,7 +8,11 @@
     <ItemGroup>
       <None Include="wwwroot\Css\StyleSheet.css" />
       <None Include="wwwroot\Images\General\Background_antenne.png" />
-      <None Include="wwwroot\Index.html" />
+      <None Include="wwwroot\Guglielmo.html" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="wwwroot\Images\Homepage\" />
     </ItemGroup>
 
 </Project>
