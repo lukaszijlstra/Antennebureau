@@ -3,8 +3,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.jumbotron {
-    background: linear-gradient(to bottom, #39870c 0%, #fff 100%);
+.jumbotron-fluid {
+    overflow: hidden;
+    background-color: #51BC80;
+    top: 0;
+    width: 100%;
+    position: fixed;
 }
 
 
@@ -20,6 +24,7 @@ img {
     height: auto;
     align-items: center;
 }
+
 
 
 p {
@@ -38,7 +43,7 @@ p {
     display: table;
     flex-grow: 0.5;
     border-bottom: 1px solid black;
-    margin: 0 10;
+    margin: auto;
     display: flex;
     flex-direction: column;
     text-align: center;
