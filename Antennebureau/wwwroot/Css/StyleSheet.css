@@ -21,4 +21,21 @@ p {
     color: black;
 }
 
+.img-with-text {
+    text-align: justify;
+    width: 100px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+#Titlebar + navbar > #Titlebar-top {
+    top: 9px;
+}
+
+#Titlebar + navbar {
+    padding-top: 0px;
+}
 
