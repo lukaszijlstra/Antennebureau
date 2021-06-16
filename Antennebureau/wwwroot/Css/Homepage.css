@@ -60,31 +60,23 @@ h3 {
 h4 {
     font-size: medium;
 }
-a {
-    display: inline-block;
-    width: 19.5%;
-    text-align: center
-  
-}
 
-a:link, a:visited
+
+a
 {
-color: black;
-text-decoration: underline;
-background-color: #51BC80;
-display: inline-block;
-text-align: center;
-padding: 5px;
-
+    color: blue;
+    text-decoration: underline;
+}
+a:visited
+{
+    color: purple
 }
 
-
-a:hover {
-    color: white;
-    font-size: 150%;
-    background-color: #51BC80;
-    
+a:active 
+{
+    color: black
 }
+
 
 hr
 {
